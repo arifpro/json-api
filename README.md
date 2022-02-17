@@ -6,6 +6,11 @@ This is a API collection for personal use only.
 
 [https://my-json-server.typicode.com/arifpro/json-api](https://my-json-server.typicode.com/arifpro/json-api)
 
+## Example with all APIs
+
+- **Live link:** [https://2irvdv.csb.app](https://2irvdv.csb.app)
+- **Code:** [https://codesandbox.io/s/2irvdv](https://codesandbox.io/s/2irvdv)
+
 ## Fetch Data
 
 ```js
